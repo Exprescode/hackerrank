@@ -27,6 +27,8 @@ if __name__ == '__main__':
 
     arr = list(map(int, in_file.readline().rstrip().split()))
 
+    in_file.close()
+
     res = minimumSwaps(arr)
 
     print(res)
