@@ -4,3 +4,7 @@ python3/test.in
 python3/test.out
 .vscode/launch.json
 python3/test.ans
+run.bat
+test.ans
+test.in
+test.out
